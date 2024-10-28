@@ -1,1 +1,2 @@
 Linux to super system. Pamiętaj, bez sudo się nie udo (nadanie praw administratora w terminalu)
+Jednak i tak wolę windowsa bo jest prostszy w obsłudze dla mnie
